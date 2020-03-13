@@ -1,6 +1,5 @@
 
 
-* Configuration
 ## messagesテーブル
 Column Type Options
 body text
